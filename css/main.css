@@ -91,7 +91,7 @@ h1 {
 }
 
 .modalDialog > div {
-  width: 685px;
+  width: 682px;
   position: relative;
   margin: 10% auto;
   padding: 5px 20px 13px 20px;
@@ -112,6 +112,10 @@ h1 {
 }
 #logo {
 	float:left;
+}
+#nav-menu {
+  position: relative;
+  top: 0px;
 }
 
 
